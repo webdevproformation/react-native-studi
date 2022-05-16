@@ -1,0 +1,17 @@
+Mise en place de notre environnement de travail
+
+Dans ce premier live, nous allons voir ensemble comment préparer notre environnement de travail pour créer un projet React Native.
+Pour cela, nous allons voir ensemble les sujets suivants 
+
+- Visual Studio Code + extensions
+- nodejs (version 12 min)
+- présentation expo-cli
+- installation de expo 
+- installation et start de notre premier projet 
+- template Managed WorkFlow / Base Workflow
+- Metro Bundler (terminal + web) + fichier package.json
+- exécuter le projet dans un emulateur Android via Android Studio
+- architecture d'un projet expo
+- présentation emulateur Android / le menu développement
+
+https://github.com/webdevproformation/react-native-studi

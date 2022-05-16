@@ -1,0 +1,23 @@
+// beug pour ma part... $ expo init live-1
+'expo-cli' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+This command requires Expo CLI.
+
+
+npm i -g expo-cli
+=> redémmarer VSC
+=> lancer la commande expo init live-1 
+=> command prompt / et non powershell 
+
+=> https://www.youtube.com/watch?v=0-S5a0eXPoc 
+20 min 
+
+nodejs => global ordinateur
+expo-cli => global ordinateur 
+live-1 => dossier bureau => je peux le déplacer 
+
+yarn start
+
+emulateur de téléphone dans votre ordinateur => aspect dans un smartphone
+
+https://developer.android.com/studio/

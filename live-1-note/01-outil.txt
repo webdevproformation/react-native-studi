@@ -1,0 +1,62 @@
+- Visual Studio Code 
+
+- extensions => plugin 
+- react native (Microsoft) => préparer votre environnement de travail 
+- react EQuimper =>  snippet imr tab => regarder la doc dans le plugin pour avoir la liste 
+
+- avoir installer sur ordinateur logiciel NodeJS 
+=> Environnement d'exécuter de javascript dans votre ordinateur 
+
+=> https://nodejs.org/en/ => même déjà installé réinstaller => update de votre nodejs
+
+=> tester j'ai la version 16.15 LTS => LaTeSt
+
+- react-native => documentation => https://reactnative.dev/
+
+=> https://reactnative.dev/docs/environment-setup 
+=> qu'est ce que je dois installer pour créer des projets react native ??? 
+
+npm install -g expo-cli
+
+npmjs.com => https://www.npmjs.com/package/expo-cli
+
+=> expo => https://expo.dev/
+Surcouche autour de react native qui va permettre de facilement créer votre projet react native 
+=> faciliter l'installation 
+=> metro bundler faire communiquer projet => emulateur / téléphone / navigateur web 
+
+=> https://expo.dev/tools#cli
+
+
+ npm audit fix -g expo-cli --force
+
+ code javascript ne va pas aller sur internet => permet de générer compiler ton projet 
+
+la commande qui permet de créer un projet react native facilement
+expo init live-1
+
+Managed workflow => utiliser les élements de react native pour réaliser nos projets 
+faciliter la vie pendant la phase de développement 
+facilier le build final 
+jsx tsx 
+
+Bare workflow => react native MAIS java et ou swift / ObjectiveC 
+
+assets => image (jpg / png / gif / pdf )
+node_modules => dossier qui contient les dépendances de notre projet react-native 
+npm install  / yarn add 
+npm uninstall  / yarn remove  
+
+.gitignore => fichier de configuration de git (ignorer les évolutions dans dossier / fichier )
+
+App.js => ce fichier qui composant racine / root de notre application react native 
+
+app.json => fichier de configuration de expo => comment il doit afficher notre application 
+
+outil jsx => javascript 
+
+installer : 
+sudo npm i -g yarn 
+
+
+=> https://www.youtube.com/watch?v=0-S5a0eXPoc
