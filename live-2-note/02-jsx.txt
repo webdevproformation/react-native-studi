@@ -1,0 +1,42 @@
+jsx 
+
+langage qui a été créer React / React Native 
+
+ressemble beaucoup au xml et javascript en même temps 
+
+langage qui va être transformé en javascript de base 
+
+transpiler Babel 
+
+jsx 
+<Text>du jsx</Text>   ========> langage natif smartphone Android / téléphone sous macOS 
+<Button /> / OBLIGATOIRE
+
+// props
+<Text style="ici">du jsx</Text>
+<Text style={color : "red"}>du jsx</Text>
+
+créer un composant il est OBLIGATOIRE QUE le composant ne dispose QUE d'un seul composant parent 
+
+--------------------
+
+html 
+
+<p style="color:red">je suis du html</p>
+<hr> <br>
+
+quel est la difference entre react et react natuve ?
+
+React => application sur internet (navigateur web) => Facebook 
+
+React Native => application sur téléphone mobile Android / iphone 
+télécharger depuis un store 
+
+Swift / Java
+
+<View> => zone <div>
+
+
+UI => React / React Native => base de données n'est pas gérée dedans 
+
+appeler une API => fetch() => requêtes AJAX GET / POST / PUT DELETE 

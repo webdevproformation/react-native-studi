@@ -1,0 +1,42 @@
+installation 
+
+nodejs 
+
+---- 
+
+npm install --global expo-cli 
+npm install --global yarn 
+
+---- 
+
+expo init live-2
+
+cd live-2
+
+yarn start => Metro Bundler
+ touche a => synchroniser code ==> emulateur android
+
+React / React native 
+
+chaque élément visuel => Composant 
+
+deux manières de créer des composants sur React / React native
+
+=> manière classique (début)
+=> composant de type class
+
+class Menu extends Component{
+    render(){
+        return <jsx>
+    }
+}
+
+export default Menu ; 
+
+=> nouvelle manière de créer des composants sur React / React Native 
+
+function Menu(){
+    return <jsx>
+}
+
+export default Menu ; 

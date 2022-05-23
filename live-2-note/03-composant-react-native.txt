@@ -1,0 +1,15 @@
+<View>
+<Text>
+
+viennent de React Native
+
+=> https://reactnative.dev/
+
+=> https://reactnative.dev/docs/components-and-apis
+
+=> Java / Kotlin
+=> Swift / Objective C 
+
+=> html / js css de base => Cordova => https://cordova.apache.org/
+
+=> React native

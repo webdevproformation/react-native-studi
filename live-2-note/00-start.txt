@@ -1,0 +1,43 @@
+Malik HARRIZ 
+malik.h@webdevpro.net
+
+
+-----
+
+live sur React Native numéro 2
+
+https://github.com/webdevproformation/react-native-studi
+
+notion => je vais les présenter React => non
+
+notions : 
+javascript => version ES6
+const let 
+() => {}
+destructuration
+
+Lionel :
+fanfa@DESKTOP-2IIEDPT MINGW64 ~/OneDrive/Bureau/malikSTUDI (master)
+$ npm audit fix -g expo-cli --force
+npm WARN using --force Recommended protections disabled.
+npm ERR! code EAUDITGLOBAL
+npm ERR! `npm audit` does not support testing globals
+
+npm ERR! A complete log of this run can be found in:
+npm ERR! C:\Users\fanfa\AppData\Local\npm-cache\_logs\2022-05-23T07_51_14_302Z-debug-0.log
+
+------------------------------
+
+sommaire : 
+
+- JSX
+- les composants de type class
+- les composants de type fonction
+- useState()
+- <StyleSheet></StyleSheet>
+- <View></View>
+- <Text></Text>
+- <Image />
+- <TextInput />
+- <Button />
+- <ScrollView></ScrollView>
