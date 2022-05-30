@@ -1,0 +1,20 @@
+Live 3 - React Native
+
+Dans ce troisième live, nous allons voir ensemble les concepts clés des composants React.
+Pour cela, nous allons voir ensemble les sujets suivants :
+
+comment travailler avec des informations dans des composants React native 
+
+- props / state pour les composants de type class
+- props / state pour les composants de type function
+// cycle de vie du composant 
+useState()
+- cycle de vie pour les composants de type class
+componentDidMount
+componentWillUpdate
+componentDidUpdate
+componentWillUnmount
+- cycle de vie pour les composants de type function
+useEffect()
+
+https://github.com/webdevproformation/react-native-studi

@@ -1,0 +1,12 @@
+nouveau projet react native 
+live-3
+
+expo init live-3
+cd live-3
+yarn start # MetroBundler
+
+android studio => téléphone virtuel
+
+modifier le projet => synchroniser dans téléphone virtuel 
+
+créer un composant de type class 
