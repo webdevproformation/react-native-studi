@@ -1,0 +1,28 @@
+Live 4 - React Native
+
+Dans ce quatrième live nous allons voir ensemble comment faire communiquer des composants qui ont une relation Parent Enfant
+Pour cela, nous allons voir ensemble les sujets suivants :
+
+- Envoyer des informations d'un composant Parent vers un Composant Enfant
+- Envoyer des informations d'un composant Composant vers un Parent
+- Communication bidirectionnel entre composant Parent et Enfant
+- Valider les props d'un composant via propType
+- Donner une valeur par défaut à des props d'un composant via defaultProp
+
+https://github.com/webdevproformation/react-native-studi
+
+---------------------------
+
+https://fr.reactjs.org/docs/react-component.html#defaultprops
+
+import { View , Text} from "react-native"
+
+export const Menu = ({text}) => {
+    return <Text>{text}</Text>
+}
+
+Menu.defaultProps = {
+    text : "text par défaut"
+}
+
+// https://fr.reactjs.org/docs/typechecking-with-proptypes.html

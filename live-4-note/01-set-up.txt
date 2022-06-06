@@ -1,0 +1,37 @@
+expo init live-4  # créer mon app react native 
+cd live-4 # se positionner dans le dossier
+yarn start # lancer la compilation
+
+Android studio + émulateur de téléphone Android
+
+au fur et à mesure 
+
+---------
+
+dossier composants 
+
+fichier => .jsx (autocomplétion)
+
+Premier.jsx 
+
+=> existe deux types de composants
+
+class  ( à l'orgine )
+fonction ( actuelle )
+
+envoyer des informations string / number / tableau / object
+
+App.js => Premier.jsx 
+(Parent) => (Enfant) 
+
+=> props 
+
+onPress => propriété du composant <Button /> react native 
+<Button onPress={() => {}}/>
+<Button onPress={fonctionAExectuer}/>
+
+
+
+<button onclick=""></button>
+
+<input type="text" onchange="" />

@@ -1,0 +1,28 @@
+import {useEffect} from "react" ;
+pour les composants fonctionnels
+
+// sideEffect => effet secondaire 
+// la fonction () => {} qui est en premier paramètre de useEffect
+// ne s'exécute QUE sous certaines conditions
+// ET les conditions sont définies dans le deuxième paramètre de la fonction 
+
+
+function Composant(){
+    useEffect(() => {} , []  ) === componentDidMount
+    // null => [] => je dois exécuter la fonction du premier paramètre de useEffect
+    // [] => [] => plus d'action 
+
+    useEffect( () => {} , [toto] ) === componentDidUpdate
+    // null => [toto] => je dois exécuter la fonction du premier paramètre de useEffect
+    // [toto] => [toto] => rien
+    // [toto] => [toto] => je dois exécuter la fonction du premier paramètre de useEffect
+
+    useEffect(() , {
+        return () => { === componentWillUnmount
+
+        }
+    } , [])
+
+}
+
+
