@@ -6,6 +6,7 @@ import { useState } from "react";
 import Deuxieme from './composants/Deuxieme';
 import { Troisieme } from './composants/Troisieme';
 import { Quatrieme } from './composants/Quatrieme';
+import { Question } from './composants/Question';
 
 export default function App() {
 
@@ -17,6 +18,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
+      <Question />
       <Quatrieme nom={titre} liste={listeJour} age={nb}/>
       <Troisieme name="Bernardo"/>
       <Premier titre={titre} like={nb} user={user} jours={listeJour} modif={setNb} />

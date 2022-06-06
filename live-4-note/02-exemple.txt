@@ -1,0 +1,16 @@
+
+informations qui sont stockées dans le state du composant App.js 
+
+en local => parent vers les enfants (dans le composant)
+
+Application => appel un serveur (une API)
+=> retourne des informations (JSON)
+
+Application Appel une API => reçoit la demande => traite => retourne à la vue 
+FIN 
+
+Ecoute lorsqu'il y a des modifications sur les données dans le serveur
+
+=> websocket communication bidirectionnelle entre le serveur et le client (React native)
+=> librairie rxjs  (écouter le flux d'information)
+=> https://rxjs.dev/
