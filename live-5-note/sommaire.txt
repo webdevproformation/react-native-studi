@@ -1,0 +1,26 @@
+--------------------
+
+Live 5 - React Native
+
+Dans ce cinquième live, vous allons voir ensemble comment réaliser des mise en forme et des mises en page dans React Native.
+Pour cela, nous allons voir ensemble les sujets suivants :
+
+La mise en forme de Composant via l'attribut style
+le composant StyleSheet 
+Flexbox pour le html
+display:flex 
+align-items  
+justify-content
+flex-direction
+flex
+le framework https://yogalayout.com/
+Flexbox à la sauce React native => https://reactnative.dev/docs/flexbox
+
+
+https://github.com/webdevproformation/react-native-studi
+
+=> rappel sur display en html (contexte d'une page web) en css 
+=> display flex mais dans le contexte react native 
+
+=> https://yogalayout.com/
+=> https://reactnative.dev/docs/flexbox

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header *{
+            border: 2px solid red;
+        }
+        header{
+            border: 2px solid blue;
+            display: flex; 
+            /* balise enfant direct l'une à côté de l'autre */ 
+            /* par défaut l'un à côté de l'autre dans le contexte d'un navigateur */
+            flex-direction: row;
+            /* dans un navigateur => flex-direction: row;
+                react native   flex-direction: column;
+            */
+            justify-content: start ; /* start par défaut 
+            
+            flex-end  espace restant à la fin
+            space-between  prend l'espace par défaut à droite et découpe de manière identique entre les différents éléments 
+            space-around prend l'espace par défaut à droite et découpe de manière identique entre les différents éléments et un peu au début et un peu à la fin
+            */
+            /*
+                flex-direction: row; 
+                justify-content => horizontalement
+
+                flex-direction: column; 
+                justify-content => gérer l'espace verticale 
+            */
+
+            
+        }
+        img{
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    
+    <header>
+        <img src="https://via.placeholder.com/200x100" alt=""><!-- balise en ligne == largeur de son contenu et hauteur de son contenu -->
+        <h1>Titre de la page</h1>
+        <ul>
+            <li>Lorem.</li><!-- balise en block == largeur de parent et hauteur de leur contenu -->
+            <li>Aspernatur.</li>
+            <li>Cumque.</li>
+            <li>Quam.</li>
+            <li>Maiores.</li>
+        </ul>
+    </header>
+
+
+    <!-- <View>
+        <Image source={https://via.placeholder.com/200x100} alt="">
+        <Text>Titre de la page</Text>
+        <FlatList>
+            <Text>Lorem.</Text>
+            <Text>Aspernatur.</Text>
+            <Text>Cumque.</Text>
+            <Text>Quam.</Text>
+            <Text>Maiores.</Text>
+        </FlatList>
+    </View> -->
+
+</body>
+</html>
+<!--
+    mais du coup , cest pareil en html/css et en reactjs ? => oui 
+    react native display : flex => flex-direction: column 
+-->

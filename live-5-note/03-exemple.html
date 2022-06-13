@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header * {
+            margin: 0;
+            border:3px solid blue;
+        }
+        header{
+            display: flex;
+            border:2px solid red;
+            justify-content: start;
+            align-items: stretch;
+            flex-direction: row;
+           
+        }
+
+        h1{
+           flex:1;  
+             /* 1 prend 100% de l'espace restant (si il en reste) */ 
+        }
+        ul{
+            flex:5;  
+            /* 4 fois plus de place sur l'espace restant QUE h1 */
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://via.placeholder.com/200x100" alt=""><!-- balise en ligne == largeur de son contenu et hauteur de son contenu -->
+        <h1>Titre de la page</h1>
+        <ul>
+            <li>Lorem.</li><!-- balise en block == largeur de parent et hauteur de leur contenu -->
+            <li>Aspernatur.</li>
+            <li>Cumque.</li>
+            <li>Quam.</li>
+            <li>Maiores.</li>
+        </ul>
+    </header>
+</body>
+</html>

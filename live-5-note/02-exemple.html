@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+        }
+        header * {
+            border:2px solid green;
+        }
+        header{
+            border:3px solid pink;
+            display: flex;
+            justify-content: start;
+            flex-direction: row;
+            /* */
+            align-items: stretch;
+            /* display flex va essayer de faire en sorte que tous les éléments ait la même hauteur => prendre l'élément qui a la hauteur la plus importe et il va étirer tous les élèments qu'il soit à cet hauteur */
+            height: 800px;
+            /*
+                align-center est dépendant flex-direction:
+                flex-direction: row ; // navigateur 
+                align-item => gérer en hauteur
+
+                flex-direction: column; // react native
+                align-items => gérer en hauteur
+            */
+        }
+        ul{
+            display: flex;
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://via.placeholder.com/200x100" alt=""><!-- balise en ligne == largeur de son contenu et hauteur de son contenu -->
+        <h1>Titre de la page</h1>
+        <ul>
+            <li>Lorem.</li><!-- balise en block == largeur de parent et hauteur de leur contenu -->
+            <li>Aspernatur.</li>
+            <li>Cumque.</li>
+            <li>Quam.</li>
+            <li>Maiores.</li>
+        </ul>
+    </header>
+</body>
+</html>
