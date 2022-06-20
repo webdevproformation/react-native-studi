@@ -1,0 +1,30 @@
+Live 6 - React Native
+Dans ce sixième live, nous allons voir ensemble les hooks permettant de stocker un state dans un composant, 
+partager un state entre plusieurs composants, exécuter une opération suite au chargement du composant.
+Pour cela, nous allons voir ensemble les sujets suivants :
+
+useState
+useEffect
+useContext / createContext
+useReducer
+
+présentation des hooks 
+
+
+https://github.com/webdevproformation/react-native-studi 
+
+=> partage de tous les notes sur le github fin de live 
+
+-------------------
+
+Set up du live 
+
+expo init live-6 --npm 
+cd live-6
+npm start  => Metro Bundler
+a => démarré Emulateur Android
+
+Android Studio => Machine Virtuelle (smartphone Android) 
+
+
+

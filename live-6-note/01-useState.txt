@@ -1,0 +1,18 @@
+hook qui permet de gérer les informations en local (dans votre composant)
+
+- dans composant de type fonction (pas possible de les utiliser dans les composants de type class )
+- directement dans la fonction 
+
+if(){}
+for(){ }
+
+
+const [ nb , setNb ] = useState(1) ;
+
+nb = 1
+setNb()
+
+
+useEffet() => sideEffect => effet secondaire 
+
+useEffet(() => { } , [ ]   )

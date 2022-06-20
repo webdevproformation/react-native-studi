@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const etudiant = { nom : "Alain" , age : 30 , status : false }; 
+
+        const etudiant2 = { ...etudiant } ; // clone copie du contenu d'un objet dans une adresse mémoire différente
+        // const etudiant2 = { ...etudiant } ;
+
+
+        etudiant2.nom = "Charles"; 
+
+        console.log("etudiant" , etudiant); // ????
+        console.log("etudiant2" ,etudiant2); // OK 
+
+
+    </script>
+</body>
+</html>
