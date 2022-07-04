@@ -1,0 +1,22 @@
+React native & Redux =>  7ème live
+
+Redux est une librairie qui permet de partager des données en les composants. 
+composant state local
+regrouper l'ensemble des states de tous nos composants => store = super state 
+partager beaucoup plus facilement entre les différents composants 
+
+Pour cela, nous allons voir ensemble les sujets suivants :
+
+Les principaux concepts de Redux 
+
+https://www.npmjs.com/package/redux
+
+store / provider / action / dispatch / fonction reductrice
+Installation du redux / react-redux 
+useSelector() / useDispatch() // react-redux 
+
+-----------------------
+
+https://github.com/webdevproformation/react-native-studi 
+
+npm i redux react-redux

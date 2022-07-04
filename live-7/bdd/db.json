@@ -1,0 +1,92 @@
+{
+    "articles": [
+      {
+        "id": "62c309b82969fd48dfb5964b",
+        "title": "sit esse cupidatat reprehenderit",
+        "body": "Cillum aute labore quis laborum velit commodo elit consequat aute. Deserunt occaecat nulla incididunt irure non ex adipisicing culpa nulla est ipsum. Cupidatat fugiat duis laborum non voluptate sit elit cupidatat consequat fugiat. Nisi labore dolor nisi est consequat labore elit voluptate consequat cupidatat laborum duis.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Lawson Ballard",
+        "like": 71
+      },
+      {
+        "id": "62c309b85064999366c59cac",
+        "title": "tempor non aliquip sit",
+        "body": "Consequat occaecat sunt do non incididunt id laborum duis voluptate fugiat. Veniam id anim dolor nostrud enim aliquip aliqua veniam incididunt ipsum nisi minim ut. Elit sint exercitation mollit pariatur ex.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Minnie Finley",
+        "like": 65
+      },
+      {
+        "id": "62c309b86c4bb6960a814f1d",
+        "title": "labore pariatur eu adipisicing",
+        "body": "Occaecat reprehenderit cupidatat ex pariatur adipisicing veniam sunt. Veniam labore dolor dolor sint ex incididunt reprehenderit voluptate consectetur do adipisicing. Sint incididunt nulla mollit do. Ipsum voluptate aliqua aute sunt proident do aliquip ullamco aliquip. Ad id irure proident tempor incididunt esse consequat non sint mollit et. Officia deserunt ut id in ipsum quis.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Lupe Farmer",
+        "like": 71
+      },
+      {
+        "id": "62c309b8f765e23a8c4d3026",
+        "title": "labore mollit sunt officia",
+        "body": "Eiusmod eiusmod quis sit occaecat culpa sint aliquip sint dolore exercitation reprehenderit. Excepteur magna ea veniam veniam elit et incididunt ex Lorem sit mollit veniam quis fugiat. Sit voluptate commodo irure eu labore ut laboris nisi exercitation exercitation velit. Deserunt nulla non pariatur cupidatat anim anim esse ea voluptate aute nostrud duis irure. Proident ex dolor irure amet incididunt enim reprehenderit do sint sit officia sint adipisicing. Ipsum eu adipisicing cupidatat ut esse aliqua aute.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Vilma Myers",
+        "like": 97
+      },
+      {
+        "id": "62c309b8e9cd0b3efe1723bf",
+        "title": "occaecat qui velit non",
+        "body": "Nisi ea et ipsum labore sint. Do qui occaecat aute fugiat fugiat officia culpa tempor amet do veniam culpa. Aliqua incididunt cupidatat dolore sint ullamco et id deserunt laboris enim velit do.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Cantu Weaver",
+        "like": 108
+      },
+      {
+        "id": "62c309b83edda4998e16358b",
+        "title": "in tempor esse minim",
+        "body": "Mollit commodo voluptate pariatur id in enim laborum consequat elit consectetur minim anim commodo. Quis sunt magna in esse id. Qui voluptate nulla do tempor non consectetur. Exercitation nisi ipsum ullamco nostrud Lorem cillum incididunt pariatur ex laboris quis deserunt duis. Pariatur Lorem commodo mollit sint est dolore eu. Enim ipsum amet sunt magna deserunt officia exercitation mollit commodo aute et eu.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Jolene Vega",
+        "like": 76
+      },
+      {
+        "id": "62c309b8c29910f05586ff3a",
+        "title": "ea voluptate dolor amet",
+        "body": "Nisi mollit eu velit enim proident irure amet. Dolore quis labore aute sit adipisicing duis esse laboris mollit et duis aliquip duis. Laborum id magna est aliqua et magna nostrud exercitation voluptate commodo esse aute. Consectetur nostrud adipisicing in dolor non enim cupidatat id veniam. Sint eu ut velit culpa consequat cillum cupidatat magna magna. Anim dolore quis sint qui pariatur ut irure pariatur cillum enim adipisicing sunt consequat elit. Id dolore aute incididunt eu mollit labore deserunt officia ex mollit fugiat voluptate exercitation fugiat.\r\n",
+        "picture": "http://placehold.it/600x300",
+        "author": "Lorene Cote",
+        "like": 67
+      }
+    ],
+    "users": [
+      {
+        "id": "62c309b8540de5d5e84b759d",
+        "nom": "Arlene Moreno",
+        "email": "arlenemoreno@arctiq.com",
+        "like": 79
+      },
+      {
+        "id": "62c309b8d9df2b0936455ff1",
+        "nom": "Margo Hebert",
+        "email": "margohebert@arctiq.com",
+        "like": 47
+      },
+      {
+        "id": "62c309b8ded3c86210a0f2e4",
+        "nom": "Kelly Ferrell",
+        "email": "kellyferrell@arctiq.com",
+        "like": 55
+      },
+      {
+        "id": "62c309b8f0c45249d7e3e89d",
+        "nom": "Mcclain Mcclure",
+        "email": "mcclainmcclure@arctiq.com",
+        "like": 32
+      },
+      {
+        "id": "62c309b8376fdac514e25a3a",
+        "nom": "Bobbi Washington",
+        "email": "bobbiwashington@arctiq.com",
+        "like": 67
+      }
+    ]
+  }

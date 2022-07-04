@@ -1,0 +1,39 @@
+
+expo init live-7 --npm # installation proojet react native 
+
+cd live-7 # positionner dans le dossier racine du projet 
+
+npm i redux react-redux axios redux-thunk
+
+(fetch)
+middleware => gérer plus facilement l'asynchrone dans redux 
+
+npm start # Starting Metro Bundler
+a => emulation et compilation pour l'émulateur android 
+
+Android studio > Virtual Device Manager > machine virtuelle > start 
+
+-----------------------------
+
+store / provider / action / dispatch / fonction reductrice
+
+côté React native => 
+
+composant => appel demande => action => { action "FAIT_QUELQUECHOSE" , payload : 1}
+cas que l'on va vouloir appliquer à notre store 
+    - récupérer des articles 
+    - supprimer un article numéro xxx
+    - modifier un article numéro xxxx 
+
+    - fonction réductrice 
+    prendre l'action + payload => effectuer une opération sur le store 
+
+    fonction pure fonction qui n'a pas d'effet de bord sur le store 
+
+
+-----------------------
+
+
+
+
+
