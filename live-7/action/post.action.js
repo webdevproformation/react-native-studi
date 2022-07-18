@@ -8,7 +8,7 @@ export const DELETE_ARTICLE = "DELETE_ARTICLE";
 export const getArticles = () => {
 
     return (dispatch) => {
-        return axios.get("https://jsonplaceholder.typicode.com/posts")
+        return axios.get("http://10.0.2.2:3004/articles")
             .then( (res) => dispatch({type : GET_ARTICLES , payload : res.data}) )
             .catch((err)=> {console.log(err)})
     }
@@ -17,7 +17,7 @@ export const getArticles = () => {
 
 export const deleteArticle = (id) => {
     return (dispatch) => {
-        return axios.delete("https://jsonplaceholder.typicode.com/posts/"+id)
+        return axios.delete("http://10.0.2.2:3004/articles/"+id)
             .then( () => dispatch({type : DELETE_ARTICLE , payload : id}) )
             .catch((err)=> {console.log(err)})
     }

@@ -1,0 +1,10 @@
+Live 9
+Base de données locale avec SQLITE 
+
+Dans ce neuvième live, nous allons voir comment stocker des données dans une base de données local SQLITE. Après avoir présenté 
+ce système de gestion base de données , nous allons voir ensemble les points suivants :
+- créer une base / 
+- créer une table / 
+- réaliser un CRUD : CREATE / READ / UPDATE / DELETE
+
+https://github.com/webdevproformation/react-native-studi 

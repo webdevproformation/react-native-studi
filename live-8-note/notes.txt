@@ -1,0 +1,6 @@
+npm install @react-navigation/native @react-navigation/stack
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+StackNavigators
+
+l'un des trois navigateurs fournis par défaut dans  react-navigation : le StackNavigators (ou « navigateur en pile »).

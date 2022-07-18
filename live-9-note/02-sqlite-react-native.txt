@@ -1,0 +1,28 @@
+expo init live-9 --npm # créer un nouveau projet react native 
+cd live-9 
+npm start 
+a 
+
+// - en parallèle 
+
+démarré Android Studio 
+
+utiliser SQLITE avec react native 
+
+--------------------
+
+=> installer un SDK => Software Development Kit 
+plein de code Android faire communiquer SQLITE 
+
+=> https://docs.expo.dev/versions/latest/sdk/sqlite/
+
+stopper l'émulateur 
+
+expo install expo-sqlite # SDK 
+
+npm start
+
+
+
+
+

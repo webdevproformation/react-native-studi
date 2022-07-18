@@ -4,18 +4,21 @@ import { Article } from "./Article"
 import { getArticles, deleteArticle } from "../action/post.action";
 
 export function Articles () {
+    const dispatch = useDispatch();
+
+   // dispatch(getArticles()); 
+
     const articles = useSelector((state) => {
         return state.articleReducer 
     });
     
-     const dispatch = useDispatch();
 
-    /*dispatch(getArticles()); */
 
     const deleteArticleUI = (id) => {
         console.log(id)
         dispatch(deleteArticle(id));
     }
+    console.log(articles);
  
     return <ScrollView>
         { articles.map((article , index ) => { 

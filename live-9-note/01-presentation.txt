@@ -1,0 +1,30 @@
+SQLITE 
+
+=> système de gestion de base de données relationnelles 
+sous forme de fichier 
+=> dans lequel on va pouvoir stocker table / avec des colonnes / relations entre des tables 
+
+=> SQLITE versus MySQL (MariaDB)
+pas besoin de lancer un serveur pour pouvoir utiliser la base de données 
+un simple fichier est suffisant pour faire fonctionner 
+
+----------------- 
+
+binaire (executable ) installé 
+interagir avec le fichier qui nos données 
+
+=> Visual Studio Code 
+=> Extensions / sqlite / SQLITE (alexcvzz)
+
+
+=> créer un fichier 
+
+data.db 
+toto.sqlite
+toto.sqlite3
+
+
+=> apparition d'une nouvelle section  dans l'explorateur 
+=> SQLITE EXPLORER (équivalent de phpMyAdmin)
+
+
