@@ -1,0 +1,35 @@
+Live 10
+Builder et déployer une application sur les stores
+
+Dans ce dernier live, nous allons voir comment transformer notre projet locale en un projet disponible sur un store. Pour cela nous allons
+aborder les points suivants :
+- Définir des canaux de distribution
+- builder notre projet et le distribuer via ExpoCLI
+
+- créer une application avec une application (en dev)
+https://api.kanye.rest/
+https://colorhunt.co/
+
+- préparation de l'application 
+app.json
+
+
+https://docs.expo.dev/build/setup/
+
+- expo.dev 
+https://expo.dev/
+
+- fichier .apk / fichier .aab 
+apk : Application PacKage
+aab : Android App Bundle (August 2021)
+
+excellent article sur le sujet : https://beebom.com/apk-vs-aab/
+
+expo build:android
+expo build:android --release-channel prod-v1
+
+
+https://play.google.com/
+
+
+https://github.com/webdevproformation/react-native-studi

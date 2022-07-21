@@ -1,0 +1,23 @@
+expo build:android .... 
+
+
+apk => format historique App Package
+package toutes les sources / images / langue / définition d'écran différents 
+créer plusieurs apk en fonction des téléphones androids sur le marché 
+apk => assez lourde (400Mo / 600Mo)
+
+Aout 2021 Google a décidé de mettre en place un nouveau format de publication des applications
+
+aab : Android App Bundle
+
+format dédié pour les Stores Google => dans le store qui va télécharger l'application 
+apk dédié => pour le smartphone / version de Android qui le télécharge 
+
+=> excellent article 
+
+alléger télécharge l'application 
+
+apk versus aab => https://beebom.com/apk-vs-aab/
+
+
+Gradle bundle.js ====> .apk 

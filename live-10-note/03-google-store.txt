@@ -1,0 +1,18 @@
+créer un compte le site 
+
+https://play.google.com/ => créer une compte développeur 
+au préalable disposer d'une boitemail gmail 
+
+https://play.google.com/console/signup/playSignup
+
+
+=> https://play.google.com/intl/fr_ALL/console/about/guides/releasewithconfidence/
+
+20 formulaires à compléter 
+-> présentation de votre application
+-> test unitaire de l'application 
+-> mentions légales / contenu adulte 
+-> formulaire dans lequel vous allez .apk => soumettre => publié 
+maximum 5 jours entre la publication / mise en ligne sur le store 
+
+=> https://www.youtube.com/watch?v=nWMn1QQkmaw

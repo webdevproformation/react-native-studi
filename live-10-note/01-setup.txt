@@ -1,0 +1,47 @@
+expo init live-10 --npm 
+
+cd live-10
+
+npm start 
+
+
+------------------------
+
+la préparer pour le déploiement 
+
+app.json
+
+https://www.photopea.com/ => photoshop sur internet 
+
+générer deux images en format 1024 x 1024 en png 
+
+------------------------
+
+transformation du javascript (jsx) => langage native Java 
+via un outil en ligne de commande 
+
+expo-cli 
+
+le site internet expo.dev 
+
+expo build:android --release-channel studi
+
+nom 
+format rendu apk (le plus ancien) aab (Aout 2021)
+générer une clé privée authentifier que vous êtes bien la personne qui publie l'application 
+fichier dans lequel chiffre aléatoire difficile à déterminer code qui va être publié 
+signé par cette clé privée 
+
+
+bundle => fichier qui regroupement de tout ce qu'il faut pour faire fonctionner votre application
+sur android 
+tout rassembler dans un seul fichier apk aab 
+
+
+entre saisir la commande // la génération du fichier apk => 15 min 
+
+
+
+
+
+
