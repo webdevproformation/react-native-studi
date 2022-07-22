@@ -1,0 +1,26 @@
+Live 8 
+la navigation dans React Native
+
+Dans ce huitième live, nous allons voir ensemble comment ajouter une barre de navigation dans notre application React native
+c'est à dire comment remplacer un composant par un autre via une navbar. Pour cela nous allons aborder les points suivants :
+- navigation par pile aussi appelée StackNavigator
+- navigation par onglet aussi appelée TabNavigator
+- navigation par panneau aussi appelé DrawNavigator
+
+https://github.com/webdevproformation/react-native-studi
+
+React Native => 
+pile aussi appelée StackNavigator => page web => cliquer sur un bouton => nouvelle page 
+
+bouton => allez vers un autre composant 
+
+-------------------------
+
+Système d'onglet => barre de menu bouton => cliquant un bouton en bas du menu 
+un composant 
+
+-------------------------
+
+DrawNavigator => Menu burger page bouton => menu qui va apparaitre sur la gauche 
+
+-------------------------

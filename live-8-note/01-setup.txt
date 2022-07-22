@@ -1,0 +1,33 @@
+expo init live-8 --npm # créer le projet react native 
+cd live-8
+
+// ajouter des packages en + pour pouvoir faire le système de navigation 
+
+// le composant qui va emballer notre application 
+// installer pour toutes les 3 navigations que l'on va voir 
+npm install @react-navigation/native => <NavigationContainer></NavigationContainer>
+
+// SDK => Software Development Kit 
+expo install react-native-screens react-native-safe-area-context
+ 
+Composant / View ===== Screen 
+
+
+
+// le premier type de navigation par Pile
+npm install @react-navigation/native-stack
+
+// le deuxième type de navigation par Tab
+npm install @react-navigation/bottom-tabs
+
+npm i react-native-vector-icons => ajouter des img en svg dans les boutons de navigation 
+
+=> https://github.com/webdevproformation/react-native-studi
+
+Variante de la navigation par Tabulation 
+
+effet glisser pour passer d'une tab à une autre 
+
+
+npm install @react-navigation/material-top-tabs react-native-tab-view
+expo install react-native-pager-view
