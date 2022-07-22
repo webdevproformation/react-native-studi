@@ -1,0 +1,9 @@
+https://reactnavigation.org/ => dédié uniquement à la navigation
+
+
+https://reactnavigation.org/docs/stack-navigator => stack nav 
+
+
+=> introduction sur le site officiel de react native => https://reactnative.dev/docs/navigation
+(juste une page d'introduction !!)
+
